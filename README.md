@@ -26,7 +26,7 @@ A mixed reality application that can be used on Meta Quest devices that tests ba
 ### Setup Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/LuigiJ0eYT/MR-but-on-an-older-version.git
+git clone https://github.com/LuigiJ0eYT/MR-Test.git
 ```
 2. Open Unity Hub
 3. Click "Add Project" and select the cloned folder
