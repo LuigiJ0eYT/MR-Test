@@ -7,7 +7,7 @@ A mixed reality application that can be used on Meta Quest devices that tests ba
 - UI that includes:
 -   Slider with text that updates based on slider position
 -   Button
--   Toggle (not fully working yet)
+-   Toggle
 
 ## Technologies Used
 - C#
@@ -46,8 +46,9 @@ git clone https://github.com/LuigiJ0eYT/MR-but-on-an-older-version.git
 - Press Play in Unity
 - Use WASD to move and RF to fly up and down
 
-** Future Improvements
+## Future Improvements
 - Add more interactable objects
+- Add physics to interactable objects
 - Add more features to UI
   
   
